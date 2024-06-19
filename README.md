@@ -81,9 +81,9 @@ int main() {
 }
 ```
 Çıktı:
-1 + 2 = 3
-3 + 4 + 5 = 12
-6 + 7 + 8 + 9 = 30
+- 1 + 2 = 3
+- 3 + 4 + 5 = 12
+- 6 + 7 + 8 + 9 = 30
 
 En büyük sayıyı bulan LargestNumber fonksiyonu:
 ```c
@@ -109,9 +109,9 @@ int main() {
 ```
 
 Çıktı:
-2
-5
-9
+- 2
+- 5
+- 9
 
 ### **Return (int)**
 
