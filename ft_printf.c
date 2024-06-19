@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hkocan <hkocan@student.42kocaeli.com.tr    +#+  +:+       +#+        */
+/*   By: hatice <hatice@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/06 13:02:51 by hkocan            #+#    #+#             */
-/*   Updated: 2023/11/07 19:26:44 by hkocan           ###   ########.fr       */
+/*   Updated: 2024/06/18 22:50:07 by hatice           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "ft_printf.h"
 #include <unistd.h>
